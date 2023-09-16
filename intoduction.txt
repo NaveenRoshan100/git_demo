@@ -8,3 +8,4 @@ for checking log in commandpromt :git log
 for checking status :git status
 direct commiting command: git commit -a -m "message"
 for removing file in git: git rm --cached <FileName>
+for tagging :git tag -a vx.y -m "message"
