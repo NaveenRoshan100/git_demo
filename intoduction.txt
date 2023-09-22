@@ -9,3 +9,4 @@ for checking status :git status
 direct commiting command: git commit -a -m "message"
 for removing file in git: git rm --cached <FileName>
 for tagging :git tag -a vx.y -m "message"
+for pushing a file into repository : git push UrlName BranchName [eg: git push origin main]
